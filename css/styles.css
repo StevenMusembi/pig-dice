@@ -1,0 +1,30 @@
+.jumbotron {
+  background-color: white !important;
+  height: auto;
+}
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 3px 2px;
+}
+h2 {
+  text-align: center;
+  text-decoration: line-through;
+  color: none;
+}
+body {
+  background-color: black !important;
+  text-align: none;
+}
+.column {
+   padding: 25px
+}
+.btn {
+  padding: 25px
+}
+div {
+  padding-top: 15px;
+  position:sticky;
+  padding-bottom: 10px;
+  color: blue;
+}
