@@ -22,7 +22,8 @@ Saves the turn total if player "holds"
 Switches player turns on a "hold"
 Declares first player to score 100 points winner
 
-Technologies Used.
+##Technologies Used.
+
 This project uses 
 HTML5
 CSS
@@ -30,10 +31,10 @@ Javascript
 Jquery
 Bootstrap
 
-Known Bug
+##Known Bug.
 No known bugs. But you can let me know if you feel there is any.
 
-**Support and contact details** 
+##Support and contact details. 
 Contribute to my by contacting me through my email. stevewrites041@gmail.com
 
 License
