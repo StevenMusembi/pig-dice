@@ -1,10 +1,11 @@
-README.md
-##Pig Dice Game.
+
+Pig Dice Game.
+
 First player to score 100 or more points wins, 2/3/2019
 
 By Steven Musembi
 
-**Description**
+Description
 
 A player rolls a die repeatedly on each turn until they decide to "hold" or they roll a 1:
 
@@ -21,11 +22,19 @@ Saves the turn total if player "holds"
 Switches player turns on a "hold"
 Declares first player to score 100 points winner
 
-**Known Bugs**
+Technologies Used.
+This project uses 
+HTML5
+CSS
+Javascript
+Jquery
+Bootstrap
+
+Known Bug
 No known bugs. But you can let me know if you feel there is any.
 
-**Support and contact details**
-Contribute to my by contacting me through my email...stevewrites041@gmail.com
+**Support and contact details** 
+Contribute to my by contacting me through my email. stevewrites041@gmail.com
 
-**License**
+License
 MIT License Copyright (c) 2019 Steven Musembi
